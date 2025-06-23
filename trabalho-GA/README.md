@@ -22,6 +22,6 @@ completa com os resultado baseado nas informações passada pelo usuário.
 Este programa simula a propagação de um vírus ao longo de um número de dias determinado pelo usuário. Ele retorna informações sobre a transmissão do vírus, incluindo vacinação, eventos aleatórios e outros fatores. Com base nas probabilidades e estatísticas fornecidas pelo usuário, o programa gera um resumo diário, destacando o aumento ou a redução da transmissão do vírus.
 
 # Observações
-O código está no arquivo: trabalho.ok 
+O código está no arquivo: trabalho.GA
 
 Não é necessário instalar bibliotecas extras.
